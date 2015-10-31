@@ -1,0 +1,4 @@
+source 'https://rubygems.org'
+
+gem "erlang_ruby", :git => 'https://github.com/minostro/erlang.rb.git'
+

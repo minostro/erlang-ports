@@ -1,0 +1,18 @@
+GIT
+  remote: https://github.com/minostro/erlang.rb.git
+  revision: 92c8abfb1ee5def5a73c64112b9865ef15df8525
+  specs:
+    erlang_ruby (0.2.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  erlang_ruby!
+
+BUNDLED WITH
+   1.10.5
