@@ -2,7 +2,7 @@
 Common place to drop code related with Erlang ports.
 
 # erlang-ruby
-Toy project to test the interaction between Erlang and Ruby processes. Currently, only Erlang can send messages to the Ruby process trough a port. Communicate from the Ruby side is not implemented yet.
+Toy project to test the interaction between Erlang and Ruby processes. Currently, only Erlang can send messages to the Ruby process trough an erlang port. Communication from Ruby to Erlang is not implemented yet.
 
 ## Setup
 ```
